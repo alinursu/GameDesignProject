@@ -3,10 +3,10 @@ using System.Collections;
 
 public class CharacterMovement : MonoBehaviour
 {
-    private string MOVE_UP_KEY = "w";
-    private string MOVE_DOWN_KEY = "s";
-    private string MOVE_LEFT_KEY = "a";
-    private string MOVE_RIGHT_KEY = "d";
+    private KeyCode MOVE_UP_KEY = KeyCode.W;
+    private KeyCode MOVE_DOWN_KEY = KeyCode.S;
+    private KeyCode MOVE_LEFT_KEY = KeyCode.A;
+    private KeyCode MOVE_RIGHT_KEY = KeyCode.D;
 
     private float xAxisStep = 0.1f;
 
@@ -32,7 +32,14 @@ public class CharacterMovement : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-
+        // TODO: This is for local co-op. Should be deleted when multiplayer is added.
+        if (character.tag == "Character2")
+        {
+            MOVE_UP_KEY = KeyCode.UpArrow;
+            MOVE_DOWN_KEY = KeyCode.DownArrow;
+            MOVE_LEFT_KEY = KeyCode.LeftArrow;
+            MOVE_RIGHT_KEY = KeyCode.RightArrow;
+        }
     }
 
     // Update is called once per frame
@@ -62,8 +69,9 @@ public class CharacterMovement : MonoBehaviour
     
     void OnCollisionEnter2D(Collision2D other)
     {
-        if (other.gameObject.tag == "Floor" && characterIsInAir == true)
+        if (characterIsInAir == true)
         {
+            if(other.gameObject.tag == "Floor" || other.gameObject.tag == "PressurePlate" || other.gameObject.tag == "PressurePlate")
             characterIsInAir = false;
         }
     }
