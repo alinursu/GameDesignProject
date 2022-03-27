@@ -4,6 +4,7 @@ using UnityEngine;
 public class PressurePlateMoveWallEvent : MonoBehaviour
 {
     public GameObject targetWall;
+	private int framesToWait;
 
     private void moveWallUp()
     {
@@ -20,34 +21,37 @@ public class PressurePlateMoveWallEvent : MonoBehaviour
         
         rigidBodyComponent.constraints = RigidbodyConstraints2D.FreezePositionX | RigidbodyConstraints2D.FreezeRotation;
     }
-    
+
     // Start is called before the first frame update
     void Start()
     {
-        
+		framesToWait = 0;
     }
 
     // Update is called once per frame
     void Update()
     {
-        
+        if(framesToWait > 0) {
+			framesToWait--;
+		}
     }
     
     void OnCollisionEnter2D(Collision2D other)
     {
-        if (other.gameObject.tag.Contains("Character"))
+        if (other.gameObject.tag.Contains("Character") && framesToWait == 0)
         {
             // Pressure plate is pressed
-            moveWallUp();
+			moveWallUp();
         }
     }
     
     void OnCollisionExit2D(Collision2D other)
     {
-        // TODO: [BUG] If a colission is made and it's not exited, the wall won't go down. (To replicate, do many 
-        // collisions in a short time)
-        
         // Pressure plate is released
         moveWallDown();
+
+		if(framesToWait == 0){
+			framesToWait = 30;
+		}
     }
 }

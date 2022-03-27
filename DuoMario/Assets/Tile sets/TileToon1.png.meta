@@ -1,0 +1,8112 @@
+fileFormatVersion: 2
+guid: 704c15ee38287994cbebd63226939557
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9218033033471660773
+    second: TileToon1_0
+  - first:
+      213: 3249730574164890995
+    second: TileToon1_1
+  - first:
+      213: -8377865759875638955
+    second: TileToon1_2
+  - first:
+      213: -9191167765875307834
+    second: TileToon1_3
+  - first:
+      213: 1390302562459465809
+    second: TileToon1_4
+  - first:
+      213: 6597951153725623155
+    second: TileToon1_5
+  - first:
+      213: -4368802113632127086
+    second: TileToon1_6
+  - first:
+      213: -1951293057556431717
+    second: TileToon1_7
+  - first:
+      213: -8918915870166751618
+    second: TileToon1_8
+  - first:
+      213: -7459296317406986480
+    second: TileToon1_9
+  - first:
+      213: -1841973879311846346
+    second: TileToon1_10
+  - first:
+      213: 2191443447277414908
+    second: TileToon1_11
+  - first:
+      213: 8462823256432592055
+    second: TileToon1_12
+  - first:
+      213: 7765592152328931725
+    second: TileToon1_13
+  - first:
+      213: 8811953299803060483
+    second: TileToon1_14
+  - first:
+      213: 613891171937826752
+    second: TileToon1_15
+  - first:
+      213: -5067831164096105685
+    second: TileToon1_16
+  - first:
+      213: 7053579841665851814
+    second: TileToon1_17
+  - first:
+      213: 2413021552393731160
+    second: TileToon1_18
+  - first:
+      213: -2563099072757888147
+    second: TileToon1_19
+  - first:
+      213: -6424827580718259214
+    second: TileToon1_20
+  - first:
+      213: -2454472069629162566
+    second: TileToon1_21
+  - first:
+      213: -5734609904559287196
+    second: TileToon1_22
+  - first:
+      213: 6329236979159643185
+    second: TileToon1_23
+  - first:
+      213: 5448079687972803386
+    second: TileToon1_24
+  - first:
+      213: -7572692874108727755
+    second: TileToon1_25
+  - first:
+      213: -1300275340907814395
+    second: TileToon1_26
+  - first:
+      213: 2395460026815953503
+    second: TileToon1_27
+  - first:
+      213: 7202380928027302271
+    second: TileToon1_28
+  - first:
+      213: 6040550464880569134
+    second: TileToon1_29
+  - first:
+      213: 6189978170377263562
+    second: TileToon1_30
+  - first:
+      213: 5618461955446949990
+    second: TileToon1_31
+  - first:
+      213: 8034106278772478675
+    second: TileToon1_32
+  - first:
+      213: -1031252183518568259
+    second: TileToon1_33
+  - first:
+      213: 2681480661131099624
+    second: TileToon1_34
+  - first:
+      213: -235696413307674768
+    second: TileToon1_35
+  - first:
+      213: 8911221033322368704
+    second: TileToon1_36
+  - first:
+      213: -1220093941208033171
+    second: TileToon1_37
+  - first:
+      213: 7453982379248193843
+    second: TileToon1_38
+  - first:
+      213: 5852845624735959554
+    second: TileToon1_39
+  - first:
+      213: 6467324886023958511
+    second: TileToon1_40
+  - first:
+      213: -6540647889795084448
+    second: TileToon1_41
+  - first:
+      213: -1859558563886846131
+    second: TileToon1_42
+  - first:
+      213: -7657124022231778586
+    second: TileToon1_43
+  - first:
+      213: 63357882377907412
+    second: TileToon1_44
+  - first:
+      213: -8331595966462414268
+    second: TileToon1_45
+  - first:
+      213: -9127784526802827171
+    second: TileToon1_46
+  - first:
+      213: -7188500256922039561
+    second: TileToon1_47
+  - first:
+      213: -3850496771452646154
+    second: TileToon1_48
+  - first:
+      213: 5424205762544308292
+    second: TileToon1_49
+  - first:
+      213: 2148143072277653518
+    second: TileToon1_50
+  - first:
+      213: 443415853742954584
+    second: TileToon1_51
+  - first:
+      213: 189842032204185971
+    second: TileToon1_52
+  - first:
+      213: 9109108027045349987
+    second: TileToon1_53
+  - first:
+      213: 1459521773944254349
+    second: TileToon1_54
+  - first:
+      213: -4435490330088810539
+    second: TileToon1_55
+  - first:
+      213: 5445691150411170661
+    second: TileToon1_56
+  - first:
+      213: -294533150418005230
+    second: TileToon1_57
+  - first:
+      213: -5790240833279473705
+    second: TileToon1_58
+  - first:
+      213: 6406731837920208220
+    second: TileToon1_59
+  - first:
+      213: -5931203951636853577
+    second: TileToon1_60
+  - first:
+      213: -6705716405663549738
+    second: TileToon1_61
+  - first:
+      213: 7719032913691717070
+    second: TileToon1_62
+  - first:
+      213: -9197659404442093024
+    second: TileToon1_63
+  - first:
+      213: 7658398706743893049
+    second: TileToon1_64
+  - first:
+      213: -6410532566955828827
+    second: TileToon1_65
+  - first:
+      213: -6610453338216760666
+    second: TileToon1_66
+  - first:
+      213: -1668695490404170856
+    second: TileToon1_67
+  - first:
+      213: 1452861462414179515
+    second: TileToon1_68
+  - first:
+      213: 3333696336446091650
+    second: TileToon1_69
+  - first:
+      213: -7566250189719568276
+    second: TileToon1_70
+  - first:
+      213: 7919230426211532696
+    second: TileToon1_71
+  - first:
+      213: 8715251965107055301
+    second: TileToon1_72
+  - first:
+      213: 8835234633752358396
+    second: TileToon1_73
+  - first:
+      213: -4752625829951353098
+    second: TileToon1_74
+  - first:
+      213: 290760434270876352
+    second: TileToon1_75
+  - first:
+      213: -3937211254299936116
+    second: TileToon1_76
+  - first:
+      213: 6621463821161543713
+    second: TileToon1_77
+  - first:
+      213: 4572899791827654660
+    second: TileToon1_78
+  - first:
+      213: -1652674218779023544
+    second: TileToon1_79
+  - first:
+      213: 6394425413394549325
+    second: TileToon1_80
+  - first:
+      213: 7555870133173387736
+    second: TileToon1_81
+  - first:
+      213: 5609002810342828460
+    second: TileToon1_82
+  - first:
+      213: 2786631388997326874
+    second: TileToon1_83
+  - first:
+      213: 3813488732597047565
+    second: TileToon1_84
+  - first:
+      213: 719154783950241227
+    second: TileToon1_85
+  - first:
+      213: -4609960278502287536
+    second: TileToon1_86
+  - first:
+      213: -7265706798594638570
+    second: TileToon1_87
+  - first:
+      213: 7663682044046467625
+    second: TileToon1_88
+  - first:
+      213: -6887358415529973697
+    second: TileToon1_89
+  - first:
+      213: -9166058319884120258
+    second: TileToon1_90
+  - first:
+      213: -4127156581223587831
+    second: TileToon1_91
+  - first:
+      213: 6954312481525211542
+    second: TileToon1_92
+  - first:
+      213: 1549767209446910223
+    second: TileToon1_93
+  - first:
+      213: -3199351203372420117
+    second: TileToon1_94
+  - first:
+      213: 4349068892416723010
+    second: TileToon1_95
+  - first:
+      213: 6605685949719315552
+    second: TileToon1_96
+  - first:
+      213: -5817656115740420294
+    second: TileToon1_97
+  - first:
+      213: 7448116654300605774
+    second: TileToon1_98
+  - first:
+      213: -8084548332846692169
+    second: TileToon1_99
+  - first:
+      213: -1101190864356749507
+    second: TileToon1_100
+  - first:
+      213: 2400802236919318510
+    second: TileToon1_101
+  - first:
+      213: 3888927319576248705
+    second: TileToon1_102
+  - first:
+      213: -3671010278033146473
+    second: TileToon1_103
+  - first:
+      213: -753226911269162753
+    second: TileToon1_104
+  - first:
+      213: 2991137789711678240
+    second: TileToon1_105
+  - first:
+      213: 3613660326042007252
+    second: TileToon1_106
+  - first:
+      213: -7558711960860305288
+    second: TileToon1_107
+  - first:
+      213: 3045282388285732809
+    second: TileToon1_108
+  - first:
+      213: 5214833192134383988
+    second: TileToon1_109
+  - first:
+      213: -7160665715918281743
+    second: TileToon1_110
+  - first:
+      213: -7342218583557549209
+    second: TileToon1_111
+  - first:
+      213: 4972261706782054592
+    second: TileToon1_112
+  - first:
+      213: -697903336685770787
+    second: TileToon1_113
+  - first:
+      213: -217467458829501126
+    second: TileToon1_114
+  - first:
+      213: -757953113794483504
+    second: TileToon1_115
+  - first:
+      213: 58650851824769953
+    second: TileToon1_116
+  - first:
+      213: -8567423131894424994
+    second: TileToon1_117
+  - first:
+      213: 1678631651179013206
+    second: TileToon1_118
+  - first:
+      213: 635522830849281347
+    second: TileToon1_119
+  - first:
+      213: -7633667459501388982
+    second: TileToon1_120
+  - first:
+      213: -6665225135825991880
+    second: TileToon1_121
+  - first:
+      213: 1808964487551840144
+    second: TileToon1_122
+  - first:
+      213: 899200753709601865
+    second: TileToon1_123
+  - first:
+      213: 2182102687184725075
+    second: TileToon1_124
+  - first:
+      213: -6483501753637789277
+    second: TileToon1_125
+  - first:
+      213: -1525933828813163281
+    second: TileToon1_126
+  - first:
+      213: -7763663339388625269
+    second: TileToon1_127
+  - first:
+      213: -7821693952775772389
+    second: TileToon1_128
+  - first:
+      213: -4893160743206648902
+    second: TileToon1_129
+  - first:
+      213: 7224695042775147142
+    second: TileToon1_130
+  - first:
+      213: 5936332459977416065
+    second: TileToon1_131
+  - first:
+      213: 2231588043508212794
+    second: TileToon1_132
+  - first:
+      213: -2548487303105042874
+    second: TileToon1_133
+  - first:
+      213: -5498430025901890687
+    second: TileToon1_134
+  - first:
+      213: -5325774655741052014
+    second: TileToon1_135
+  - first:
+      213: -830733732666062947
+    second: TileToon1_136
+  - first:
+      213: -1169461806029445150
+    second: TileToon1_137
+  - first:
+      213: 5406511380512623857
+    second: TileToon1_138
+  - first:
+      213: 6055914205986470042
+    second: TileToon1_139
+  - first:
+      213: -4375767070929468099
+    second: TileToon1_140
+  - first:
+      213: -489934893588887282
+    second: TileToon1_141
+  - first:
+      213: -1894754888407808258
+    second: TileToon1_142
+  - first:
+      213: -7213366722158892845
+    second: TileToon1_143
+  - first:
+      213: 6845644588981821711
+    second: TileToon1_144
+  - first:
+      213: 3396364790140375524
+    second: TileToon1_145
+  - first:
+      213: 1488494189064903200
+    second: TileToon1_146
+  - first:
+      213: -1146473529906405737
+    second: TileToon1_147
+  - first:
+      213: 260226829682434929
+    second: TileToon1_148
+  - first:
+      213: -4554639636450625228
+    second: TileToon1_149
+  - first:
+      213: -6186206862448301599
+    second: TileToon1_150
+  - first:
+      213: 5096276089964583985
+    second: TileToon1_151
+  - first:
+      213: -7148868233726635390
+    second: TileToon1_152
+  - first:
+      213: 5284009553742416129
+    second: TileToon1_153
+  - first:
+      213: -4635389852261695438
+    second: TileToon1_154
+  - first:
+      213: 4344907084929281794
+    second: TileToon1_155
+  - first:
+      213: 4513138271442821227
+    second: TileToon1_156
+  - first:
+      213: 4321661993374682739
+    second: TileToon1_157
+  - first:
+      213: 1984337897109726752
+    second: TileToon1_158
+  - first:
+      213: 7718480843870406732
+    second: TileToon1_159
+  - first:
+      213: -7929830679489852147
+    second: TileToon1_160
+  - first:
+      213: 6321195267696226470
+    second: TileToon1_161
+  - first:
+      213: -151930209276886984
+    second: TileToon1_162
+  - first:
+      213: -5102188222617340061
+    second: TileToon1_163
+  - first:
+      213: 7733940029409649657
+    second: TileToon1_164
+  - first:
+      213: -6070907273238014919
+    second: TileToon1_165
+  - first:
+      213: 2335593200684977282
+    second: TileToon1_166
+  - first:
+      213: 5854601684225148588
+    second: TileToon1_167
+  - first:
+      213: -7306831354336514698
+    second: TileToon1_168
+  - first:
+      213: -206298923129421663
+    second: TileToon1_169
+  - first:
+      213: 9004506909787172850
+    second: TileToon1_170
+  - first:
+      213: 3866207155726491117
+    second: TileToon1_171
+  - first:
+      213: 3052937659930607833
+    second: TileToon1_172
+  - first:
+      213: -8160732861412111456
+    second: TileToon1_173
+  - first:
+      213: -4764901980345051501
+    second: TileToon1_174
+  - first:
+      213: -3885350423846173774
+    second: TileToon1_175
+  - first:
+      213: 7168539750891521916
+    second: TileToon1_176
+  - first:
+      213: 6693857688897770851
+    second: TileToon1_177
+  - first:
+      213: -5086732006016913393
+    second: TileToon1_178
+  - first:
+      213: -1714210395797990837
+    second: TileToon1_179
+  - first:
+      213: 8177001521588677695
+    second: TileToon1_180
+  - first:
+      213: -7173452677310627974
+    second: TileToon1_181
+  - first:
+      213: -7022319764779206541
+    second: TileToon1_182
+  - first:
+      213: -1092396961622696803
+    second: TileToon1_183
+  - first:
+      213: -1252334563295661200
+    second: TileToon1_184
+  - first:
+      213: 1209055113007165547
+    second: TileToon1_185
+  - first:
+      213: -6940428065264476154
+    second: TileToon1_186
+  - first:
+      213: -513476107847987657
+    second: TileToon1_187
+  - first:
+      213: -356472103275243330
+    second: TileToon1_188
+  - first:
+      213: -3950357849155402771
+    second: TileToon1_189
+  - first:
+      213: -6892869354391391839
+    second: TileToon1_190
+  - first:
+      213: -3699931527973405139
+    second: TileToon1_191
+  - first:
+      213: 7638937630301203610
+    second: TileToon1_192
+  - first:
+      213: -1468612432595757588
+    second: TileToon1_193
+  - first:
+      213: 7501174209490473542
+    second: TileToon1_194
+  - first:
+      213: -3687454509516907228
+    second: TileToon1_195
+  - first:
+      213: -933015385828192666
+    second: TileToon1_196
+  - first:
+      213: 7619471073051640214
+    second: TileToon1_197
+  - first:
+      213: -8439287200472439965
+    second: TileToon1_198
+  - first:
+      213: 8488254176456988386
+    second: TileToon1_199
+  - first:
+      213: -2873115034388817185
+    second: TileToon1_200
+  - first:
+      213: 6420663090047427991
+    second: TileToon1_201
+  - first:
+      213: -832139077079847813
+    second: TileToon1_202
+  - first:
+      213: -583306616729297358
+    second: TileToon1_203
+  - first:
+      213: -7188857078014279869
+    second: TileToon1_204
+  - first:
+      213: 668443370470635809
+    second: TileToon1_205
+  - first:
+      213: -6134443983988947962
+    second: TileToon1_206
+  - first:
+      213: 6539116645777167358
+    second: TileToon1_207
+  - first:
+      213: 3906899256017771908
+    second: TileToon1_208
+  - first:
+      213: -5954061066051412120
+    second: TileToon1_209
+  - first:
+      213: 2127459838628177136
+    second: TileToon1_210
+  - first:
+      213: -8166709364196696518
+    second: TileToon1_211
+  - first:
+      213: 30371985077889942
+    second: TileToon1_212
+  - first:
+      213: 7421649242596722459
+    second: TileToon1_213
+  - first:
+      213: -2292289979941936710
+    second: TileToon1_214
+  - first:
+      213: -5429959623652661789
+    second: TileToon1_215
+  - first:
+      213: -5860874876267329843
+    second: TileToon1_216
+  - first:
+      213: -1780387919978860488
+    second: TileToon1_217
+  - first:
+      213: 8691977230664679554
+    second: TileToon1_218
+  - first:
+      213: 8330787938441290836
+    second: TileToon1_219
+  - first:
+      213: -1539836572596925652
+    second: TileToon1_220
+  - first:
+      213: -1672298090014378048
+    second: TileToon1_221
+  - first:
+      213: 1347760526521342651
+    second: TileToon1_222
+  - first:
+      213: 2320913938848832990
+    second: TileToon1_223
+  - first:
+      213: 757857898313232219
+    second: TileToon1_224
+  - first:
+      213: -8968498270137393993
+    second: TileToon1_225
+  - first:
+      213: -4326199794721584845
+    second: TileToon1_226
+  - first:
+      213: 8124625506231591877
+    second: TileToon1_227
+  - first:
+      213: 6044446562715234917
+    second: TileToon1_228
+  - first:
+      213: -4333525471122599481
+    second: TileToon1_229
+  - first:
+      213: 9020213717655566971
+    second: TileToon1_230
+  - first:
+      213: -8729129459466202579
+    second: TileToon1_231
+  - first:
+      213: 2161679857310544227
+    second: TileToon1_232
+  - first:
+      213: 7033475235986124687
+    second: TileToon1_233
+  - first:
+      213: 7821291169445631222
+    second: TileToon1_234
+  - first:
+      213: -6483147756620074139
+    second: TileToon1_235
+  - first:
+      213: -4726431333976346271
+    second: TileToon1_236
+  - first:
+      213: 4415733682382862871
+    second: TileToon1_237
+  - first:
+      213: -1163694551759258319
+    second: TileToon1_238
+  - first:
+      213: 3025837579145576739
+    second: TileToon1_239
+  - first:
+      213: 8044275025402058419
+    second: TileToon1_240
+  - first:
+      213: 8685649187642788934
+    second: TileToon1_241
+  - first:
+      213: -3785649815526816482
+    second: TileToon1_242
+  - first:
+      213: -8187385911369025759
+    second: TileToon1_243
+  - first:
+      213: 7877386756026399394
+    second: TileToon1_244
+  - first:
+      213: 4855500978307696838
+    second: TileToon1_245
+  - first:
+      213: 7215573611995873962
+    second: TileToon1_246
+  - first:
+      213: -3373932525255269717
+    second: TileToon1_247
+  - first:
+      213: -8710144467802186960
+    second: TileToon1_248
+  - first:
+      213: 200943390075900291
+    second: TileToon1_249
+  - first:
+      213: 1338090808666088629
+    second: TileToon1_250
+  - first:
+      213: -2002408290417944904
+    second: TileToon1_251
+  - first:
+      213: -8567006781761881059
+    second: TileToon1_252
+  - first:
+      213: -2050923909708093880
+    second: TileToon1_253
+  - first:
+      213: -3671516843497658303
+    second: TileToon1_254
+  - first:
+      213: -1025904220941672670
+    second: TileToon1_255
+  - first:
+      213: -2798583026655614673
+    second: TileToon1_256
+  - first:
+      213: 7081685862214247951
+    second: TileToon1_257
+  - first:
+      213: -7991721983841313071
+    second: TileToon1_258
+  - first:
+      213: 5598667880116340489
+    second: TileToon1_259
+  - first:
+      213: -8913104725610243359
+    second: TileToon1_260
+  - first:
+      213: 2304557585212947676
+    second: TileToon1_261
+  - first:
+      213: 7227710082693275105
+    second: TileToon1_262
+  - first:
+      213: -945109569058221277
+    second: TileToon1_263
+  - first:
+      213: 5600433422380753717
+    second: TileToon1_264
+  - first:
+      213: 6286438503904278391
+    second: TileToon1_265
+  - first:
+      213: -2780288660020956753
+    second: TileToon1_266
+  - first:
+      213: 1558577801010972424
+    second: TileToon1_267
+  - first:
+      213: 3449058881835309580
+    second: TileToon1_268
+  - first:
+      213: 620268651317703831
+    second: TileToon1_269
+  - first:
+      213: 2817024144910772701
+    second: TileToon1_270
+  - first:
+      213: 7595400215653803154
+    second: TileToon1_271
+  - first:
+      213: 8453284607902812545
+    second: TileToon1_272
+  - first:
+      213: 35411079845284186
+    second: TileToon1_273
+  - first:
+      213: -1429756017326666062
+    second: TileToon1_274
+  - first:
+      213: -4734531553280253874
+    second: TileToon1_275
+  - first:
+      213: -7151901490101104362
+    second: TileToon1_276
+  - first:
+      213: -4581527335288395743
+    second: TileToon1_277
+  - first:
+      213: 1850751937199399198
+    second: TileToon1_278
+  - first:
+      213: -6289041425051511133
+    second: TileToon1_279
+  - first:
+      213: 2873976424490799841
+    second: TileToon1_280
+  - first:
+      213: -3334312302786670088
+    second: TileToon1_281
+  - first:
+      213: -4390894983943171948
+    second: TileToon1_282
+  - first:
+      213: -3774725416817665610
+    second: TileToon1_283
+  - first:
+      213: -4223241564498977704
+    second: TileToon1_284
+  - first:
+      213: -5478493509097159164
+    second: TileToon1_285
+  - first:
+      213: 3917336369429828850
+    second: TileToon1_286
+  - first:
+      213: 8205593846040903195
+    second: TileToon1_287
+  - first:
+      213: 3904347269238599531
+    second: TileToon1_288
+  - first:
+      213: 7701895473090224533
+    second: TileToon1_289
+  - first:
+      213: -633405394063752880
+    second: TileToon1_290
+  - first:
+      213: -5623432939133493575
+    second: TileToon1_291
+  - first:
+      213: -2895747819323588491
+    second: TileToon1_292
+  - first:
+      213: -2004604071186157241
+    second: TileToon1_293
+  - first:
+      213: -3488438026900234026
+    second: TileToon1_294
+  - first:
+      213: -7850783958732358199
+    second: TileToon1_295
+  - first:
+      213: 6930965344798907805
+    second: TileToon1_296
+  - first:
+      213: 5034341373861244316
+    second: TileToon1_297
+  - first:
+      213: 1163673055777230832
+    second: TileToon1_298
+  - first:
+      213: 4976275141071155901
+    second: TileToon1_299
+  - first:
+      213: -320533287353963456
+    second: TileToon1_300
+  - first:
+      213: 1884113396572168572
+    second: TileToon1_301
+  - first:
+      213: 5703240568173684218
+    second: TileToon1_302
+  - first:
+      213: -5369670026901232538
+    second: TileToon1_303
+  - first:
+      213: 7723031875864672699
+    second: TileToon1_304
+  - first:
+      213: 5717967534743076563
+    second: TileToon1_305
+  - first:
+      213: 3025645616785872020
+    second: TileToon1_306
+  - first:
+      213: -4353584562017856934
+    second: TileToon1_307
+  - first:
+      213: 4267537821475421120
+    second: TileToon1_308
+  - first:
+      213: 8027028301728356997
+    second: TileToon1_309
+  - first:
+      213: 6326427355054258921
+    second: TileToon1_310
+  - first:
+      213: 671280211082890561
+    second: TileToon1_311
+  - first:
+      213: -4797211050523962426
+    second: TileToon1_312
+  - first:
+      213: -5962289362155889678
+    second: TileToon1_313
+  - first:
+      213: -5776197116560468468
+    second: TileToon1_314
+  - first:
+      213: 2837809940573250761
+    second: TileToon1_315
+  - first:
+      213: -2540395022909596495
+    second: TileToon1_316
+  - first:
+      213: -1048333306742057339
+    second: TileToon1_317
+  - first:
+      213: -513109575639592902
+    second: TileToon1_318
+  - first:
+      213: -8403543759944588242
+    second: TileToon1_319
+  - first:
+      213: -2286794684505264301
+    second: TileToon1_320
+  - first:
+      213: -271157282523257490
+    second: TileToon1_321
+  - first:
+      213: -9144740954078495958
+    second: TileToon1_322
+  - first:
+      213: -677716731152377735
+    second: TileToon1_323
+  - first:
+      213: 4275857652114245705
+    second: TileToon1_324
+  - first:
+      213: 1176813009469541682
+    second: TileToon1_325
+  - first:
+      213: 3100082655089130094
+    second: TileToon1_326
+  - first:
+      213: -258672302367238114
+    second: TileToon1_327
+  - first:
+      213: 2676399928277060321
+    second: TileToon1_328
+  - first:
+      213: 8162276802822442355
+    second: TileToon1_329
+  - first:
+      213: 7464104318500575038
+    second: TileToon1_330
+  - first:
+      213: -5786472263692639717
+    second: TileToon1_331
+  - first:
+      213: 6772849064767812538
+    second: TileToon1_332
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TileToon1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 457
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e215e764380def70800000000000000
+      internalID: 9218033033471660773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 457
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37513d84dbc591d20800000000000000
+      internalID: 3249730574164890995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 457
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55954beaa77dbbb80800000000000000
+      internalID: -8377865759875638955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 457
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca4bf32d99627080800000000000000
+      internalID: -9191167765875307834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 457
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15836bd70d85b4310800000000000000
+      internalID: 1390302562459465809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 457
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37bc13bed91a09b50800000000000000
+      internalID: 6597951153725623155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 457
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2973bf2ef95ee53c0800000000000000
+      internalID: -4368802113632127086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 457
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9cb9a37d4d9be4e0800000000000000
+      internalID: -1951293057556431717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 457
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76ed114545a93480800000000000000
+      internalID: -8918915870166751618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 457
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01fb39635814b7890800000000000000
+      internalID: -7459296317406986480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 457
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634b116148eff66e0800000000000000
+      internalID: -1841973879311846346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 457
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9e35c5432996e10800000000000000
+      internalID: 2191443447277414908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 457
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4449ce9ecf17570800000000000000
+      internalID: 8462823256432592055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 457
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89802e2bece4cb60800000000000000
+      internalID: 7765592152328931725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_14
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 457
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309b714a6d85a4a70800000000000000
+      internalID: 8811953299803060483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_15
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 457
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c73a12b4caf48800800000000000000
+      internalID: 613891171937826752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_16
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 457
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b23b56228627ba9b0800000000000000
+      internalID: -5067831164096105685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_17
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 457
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a169599e7953e160800000000000000
+      internalID: 7053579841665851814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_18
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 457
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c3ac13156cc7120800000000000000
+      internalID: 2413021552393731160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_19
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 457
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b022429fa0e6cd0800000000000000
+      internalID: -2563099072757888147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_20
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 457
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3e7240b5d66d6a0800000000000000
+      internalID: -6424827580718259214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_21
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 457
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abbc2a238a6ffedd0800000000000000
+      internalID: -2454472069629162566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_22
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 457
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4649e41dca29a60b0800000000000000
+      internalID: -5734609904559287196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 425
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134b312bf77f5d750800000000000000
+      internalID: 6329236979159643185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_24
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 425
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33d3ad6c977b9b40800000000000000
+      internalID: 5448079687972803386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 425
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e0e9de3f368e690800000000000000
+      internalID: -7572692874108727755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_26
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 425
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5026df2777e74fde0800000000000000
+      internalID: -1300275340907814395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_27
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 425
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a3304e3326e3120800000000000000
+      internalID: 2395460026815953503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_28
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 425
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f799d105b4ff3f360800000000000000
+      internalID: 7202380928027302271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_29
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 425
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2be603c4a854d350800000000000000
+      internalID: 6040550464880569134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_30
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 425
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac952cc995837e550800000000000000
+      internalID: 6189978170377263562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_31
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 425
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668467e6169c8fd40800000000000000
+      internalID: 5618461955446949990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_32
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 425
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d218f11811ee7f60800000000000000
+      internalID: 8034106278772478675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_33
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 425
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0a7875a9140b1f0800000000000000
+      internalID: -1031252183518568259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_34
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 425
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed7cc64478863520800000000000000
+      internalID: 2681480661131099624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_35
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 425
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f56f16c53aabcf0800000000000000
+      internalID: -235696413307674768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_36
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 425
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce4b2ee0540bab70800000000000000
+      internalID: 8911221033322368704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_37
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 425
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6850b9560b511fe0800000000000000
+      internalID: -1220093941208033171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_38
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 425
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3311c152b7dd17760800000000000000
+      internalID: 7453982379248193843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_39
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 425
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a0693061c793150800000000000000
+      internalID: 5852845624735959554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_40
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 425
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef608ee7bd80c950800000000000000
+      internalID: 6467324886023958511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_41
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 425
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f0bd7e563fa35a0800000000000000
+      internalID: -6540647889795084448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_42
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 425
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f2d78a6558136e0800000000000000
+      internalID: -1859558563886846131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_43
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 425
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eab3cd554e6cb590800000000000000
+      internalID: -7657124022231778586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_44
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 425
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc2bd888a711e000800000000000000
+      internalID: 63357882377907412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_45
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 425
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4423ee67c99306c80800000000000000
+      internalID: -8331595966462414268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_46
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 393
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d584c9d7558935180800000000000000
+      internalID: -9127784526802827171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_47
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 393
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa8b564a115d3c90800000000000000
+      internalID: -7188500256922039561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_48
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 393
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fcc6c05699409ac0800000000000000
+      internalID: -3850496771452646154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_49
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 393
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44094110766a64b40800000000000000
+      internalID: 5424205762544308292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_50
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 393
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0863dd2ebcbfcd10800000000000000
+      internalID: 2148143072277653518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_51
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 393
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8581022ae54572600800000000000000
+      internalID: 443415853742954584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_52
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 393
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37108fc825472a200800000000000000
+      internalID: 189842032204185971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_53
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 393
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a82bc0d7d0a6e70800000000000000
+      internalID: 9109108027045349987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_54
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 393
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f25ed0253414410800000000000000
+      internalID: 1459521773944254349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_55
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 393
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d750668b09f172c0800000000000000
+      internalID: -4435490330088810539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_56
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 393
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5630fb0bf3bf29b40800000000000000
+      internalID: 5445691150411170661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_57
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 393
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21312c209ab99ebf0800000000000000
+      internalID: -294533150418005230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_58
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 393
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d74a60e3aee4afa0800000000000000
+      internalID: -5790240833279473705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_59
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 393
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c556b6a89a849e850800000000000000
+      internalID: 6406731837920208220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_60
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 393
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bcca4c4e6120bda0800000000000000
+      internalID: -5931203951636853577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_61
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 393
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d63aeb157280f2a0800000000000000
+      internalID: -6705716405663549738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_62
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 393
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecda42ea9838f1b60800000000000000
+      internalID: 7719032913691717070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_63
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 393
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ab231c0895b5080800000000000000
+      internalID: -9197659404442093024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_64
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 393
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93cd7cf3c09184a60800000000000000
+      internalID: 7658398706743893049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_65
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 393
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9568548963907a0800000000000000
+      internalID: -6410532566955828827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 361
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa7b4b66b3f244a0800000000000000
+      internalID: -6610453338216760666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_67
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 361
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893c928ea4a97d8e0800000000000000
+      internalID: -1668695490404170856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_68
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 361
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc3d0f6dc9992410800000000000000
+      internalID: 1452861462414179515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_69
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 361
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281f3e2c72ba34e20800000000000000
+      internalID: 3333696336446091650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_70
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 361
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6088084a874ff690800000000000000
+      internalID: -7566250189719568276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_71
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 361
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89fbdc06d12c6ed60800000000000000
+      internalID: 7919230426211532696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_72
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 361
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca2b34ac7bc2f870800000000000000
+      internalID: 8715251965107055301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_73
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 361
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfda90c961f0d9a70800000000000000
+      internalID: 8835234633752358396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_74
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 361
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe4767fcf74b0eb0800000000000000
+      internalID: -4752625829951353098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_75
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 361
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2347f031df80400800000000000000
+      internalID: 290760434270876352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_76
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 361
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a38c579373c59c0800000000000000
+      internalID: -3937211254299936116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_77
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 361
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1283f69634a24eb50800000000000000
+      internalID: 6621463821161543713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_78
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 361
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4085855e124367f30800000000000000
+      internalID: 4572899791827654660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_79
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 361
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847ea34ed858019e0800000000000000
+      internalID: -1652674218779023544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_80
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 361
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4acc1cc8009db850800000000000000
+      internalID: 6394425413394549325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_81
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 361
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d188c87ad7dbd860800000000000000
+      internalID: 7555870133173387736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_82
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 361
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9e6a6965e27dd40800000000000000
+      internalID: 5609002810342828460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_83
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 361
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18932deb7a1ca620800000000000000
+      internalID: 2786631388997326874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_84
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 361
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01d66d2ccb3ce430800000000000000
+      internalID: 3813488732597047565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_85
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 361
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd70eb3773faf900800000000000000
+      internalID: 719154783950241227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_86
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 361
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057d5332d812600c0800000000000000
+      internalID: -4609960278502287536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_87
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 361
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d30ab79260b2b90800000000000000
+      internalID: -7265706798594638570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_88
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 361
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 922ede2173eda5a60800000000000000
+      internalID: 7663682044046467625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_89
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 329
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38e98903003b60a0800000000000000
+      internalID: -6887358415529973697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_90
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 329
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f0bcc958e9bc080800000000000000
+      internalID: -9166058319884120258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_91
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 329
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900a0cbb4f469b6c0800000000000000
+      internalID: -4127156581223587831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_92
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 329
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 691206e3b5ea28060800000000000000
+      internalID: 6954312481525211542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_93
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 329
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f09a1a3e011e18510800000000000000
+      internalID: 1549767209446910223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_94
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 329
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3b44b080f9993d0800000000000000
+      internalID: -3199351203372420117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_95
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 329
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24843348d1ffa5c30800000000000000
+      internalID: 4349068892416723010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_96
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 329
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0640fc27f5c1cab50800000000000000
+      internalID: 6605685949719315552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_97
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 329
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37d9e30698834fa0800000000000000
+      internalID: -5817656115740420294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_98
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 329
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d2241a2a60d5760800000000000000
+      internalID: 7448116654300605774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_99
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 329
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b84233002aedcf80800000000000000
+      internalID: -8084548332846692169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_100
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 329
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f4c144eb8c7b0f0800000000000000
+      internalID: -1101190864356749507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_101
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 329
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee70a8b1aec515120800000000000000
+      internalID: 2400802236919318510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_102
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 329
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18187a0face38f530800000000000000
+      internalID: 3888927319576248705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_103
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 329
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79db60b1a93fd0dc0800000000000000
+      internalID: -3671010278033146473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_104
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 329
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0798e6d100c85f0800000000000000
+      internalID: -753226911269162753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_105
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 329
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02bf206d8f7a28920800000000000000
+      internalID: 2991137789711678240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_106
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 329
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6f7a8abec462230800000000000000
+      internalID: 3613660326042007252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_107
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 329
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878dc65f48f0a1790800000000000000
+      internalID: -7558711960860305288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_108
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 329
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c736829234034a20800000000000000
+      internalID: 3045282388285732809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_109
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 329
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 479161ca82fce5840800000000000000
+      internalID: 5214833192134383988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_110
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 329
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f36f5f587430ac90800000000000000
+      internalID: -7160665715918281743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_111
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 329
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 763d7c759133b1a90800000000000000
+      internalID: -7342218583557549209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_112
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 329
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8950b9da5010540800000000000000
+      internalID: 4972261706782054592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_113
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 297
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7e849ec9c8056f0800000000000000
+      internalID: -697903336685770787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_114
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 297
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3db2469f766bfcf0800000000000000
+      internalID: -217467458829501126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_115
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 297
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dae0e7a8a53b75f0800000000000000
+      internalID: -757953113794483504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_116
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 297
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab1ac493ae50d000800000000000000
+      internalID: 58650851824769953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_117
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 297
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ad7febd066a1980800000000000000
+      internalID: -8567423131894424994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_118
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 297
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 654a04dc792bb4710800000000000000
+      internalID: 1678631651179013206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_119
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 297
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d0c63c5a4d1d800800000000000000
+      internalID: 635522830849281347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_120
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 297
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b06f6f3e3cf0690800000000000000
+      internalID: -7633667459501388982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_121
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 297
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83746178d0d5083a0800000000000000
+      internalID: -6665225135825991880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_122
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 297
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09fe2dbfd9bba1910800000000000000
+      internalID: 1808964487551840144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_123
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 297
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944df92425a9a7c00800000000000000
+      internalID: 899200753709601865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_124
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 297
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354221d25d2684e10800000000000000
+      internalID: 2182102687184725075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_125
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 297
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a12cc19189f506a0800000000000000
+      internalID: -6483501753637789277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_126
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 297
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe4f6d6744bc2dae0800000000000000
+      internalID: -1525933828813163281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_127
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 297
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e9404935de14490800000000000000
+      internalID: -7763663339388625269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_128
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 297
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17aaf28ac2c37390800000000000000
+      internalID: -7821693952775772389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_129
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 297
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab30848aa30081cb0800000000000000
+      internalID: -4893160743206648902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_130
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 297
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68263230dd5434460800000000000000
+      internalID: 7224695042775147142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_131
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 297
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d13999be6126250800000000000000
+      internalID: 5936332459977416065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_132
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 297
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34e05a808138fe10800000000000000
+      internalID: 2231588043508212794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_133
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 297
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 646a4dfdc44f1acd0800000000000000
+      internalID: -2548487303105042874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_134
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 265
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183a6cbf507a1b3b0800000000000000
+      internalID: -5498430025901890687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_135
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 265
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29bb6c2fa2c0716b0800000000000000
+      internalID: -5325774655741052014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_136
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 265
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9741815214a874f0800000000000000
+      internalID: -830733732666062947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_137
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 265
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e76a39feac35cfe0800000000000000
+      internalID: -1169461806029445150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_138
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 265
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fccf85a479c70b40800000000000000
+      internalID: 5406511380512623857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_139
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 265
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98b01e72edea0450800000000000000
+      internalID: 6055914205986470042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_140
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 265
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d35c56568072643c0800000000000000
+      internalID: -4375767070929468099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_141
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 265
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09c0906fc66339f0800000000000000
+      internalID: -489934893588887282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_142
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 265
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef68404c77a74b5e0800000000000000
+      internalID: -1894754888407808258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_143
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 265
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8681b2f29f4eb90800000000000000
+      internalID: -7213366722158892845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_144
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 265
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0126d0eb7d900f50800000000000000
+      internalID: 6845644588981821711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_145
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 265
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e116fb28cf422f20800000000000000
+      internalID: 3396364790140375524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_146
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 265
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a527d149138a410800000000000000
+      internalID: 1488494189064903200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_147
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 233
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e5a891668e610f0800000000000000
+      internalID: -1146473529906405737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_148
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 233
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1736f304ce28c9300800000000000000
+      internalID: 260226829682434929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_149
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 233
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4393275d16baac0c0800000000000000
+      internalID: -4554639636450625228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_150
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 233
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e96fa072ad262aa0800000000000000
+      internalID: -6186206862448301599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_151
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 233
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13cd7a34a1c99b640800000000000000
+      internalID: 5096276089964583985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_152
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 233
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28256aeb73e1acc90800000000000000
+      internalID: -7148868233726635390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_153
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 233
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109469871b2945940800000000000000
+      internalID: 5284009553742416129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_154
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 233
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230cd7c1d79cbafb0800000000000000
+      internalID: -4635389852261695438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_155
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 233
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20fa94339f53c4c30800000000000000
+      internalID: 4344907084929281794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_156
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 233
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60e193a853e1ae30800000000000000
+      internalID: 4513138271442821227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_157
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 233
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e87629fa0a9fb30800000000000000
+      internalID: 4321661993374682739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_158
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 233
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026229fcdc8c98b10800000000000000
+      internalID: 1984337897109726752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_159
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 233
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c488d88ee6d8d1b60800000000000000
+      internalID: 7718480843870406732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_160
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 233
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d4304d20593f190800000000000000
+      internalID: -7929830679489852147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_161
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 233
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0f9e6da9569b750800000000000000
+      internalID: 6321195267696226470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_162
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 233
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8308665974c34edf0800000000000000
+      internalID: -151930209276886984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_163
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 233
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36736b518d26139b0800000000000000
+      internalID: -5102188222617340061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_164
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 233
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3e2270b79745b60800000000000000
+      internalID: 7733940029409649657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_165
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 233
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9341052000ecfbba0800000000000000
+      internalID: -6070907273238014919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_166
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 233
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c45aa34a1b96020800000000000000
+      internalID: 2335593200684977282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_167
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 233
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6c4a97639bf3150800000000000000
+      internalID: 5854601684225148588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_168
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 233
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67de513b89be89a90800000000000000
+      internalID: -7306831354336514698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_169
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 233
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a04351f834132df0800000000000000
+      internalID: -206298923129421663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_170
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 233
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff2a67935f66fc70800000000000000
+      internalID: 9004506909787172850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_171
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 201
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded96219ce687a530800000000000000
+      internalID: 3866207155726491117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_172
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 201
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0839560a63e5a20800000000000000
+      internalID: 3052937659930607833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_173
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 201
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab8ca033b04fbe80800000000000000
+      internalID: -8160732861412111456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_174
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 201
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3965af7f4eaafddb0800000000000000
+      internalID: -4764901980345051501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_175
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 201
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b34cbeff56741ac0800000000000000
+      internalID: -3885350423846173774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_176
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 201
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7708224ce4cb7360800000000000000
+      internalID: 7168539750891521916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_177
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 201
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365d4cb3a1c55ec50800000000000000
+      internalID: 6693857688897770851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_178
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 201
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0070c1f03c4869b0800000000000000
+      internalID: -5086732006016913393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_179
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 201
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b42dd203ab6e538e0800000000000000
+      internalID: -1714210395797990837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_180
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 201
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c2f1e6f8b8a7170800000000000000
+      internalID: 8177001521588677695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_181
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 201
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f33dbebc6c27c90800000000000000
+      internalID: -7173452677310627974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_182
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 201
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37871293165bb8e90800000000000000
+      internalID: -7022319764779206541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_183
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 201
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c53cc40c607d0f0800000000000000
+      internalID: -1092396961622696803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_184
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 201
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07371de8950de9ee0800000000000000
+      internalID: -1252334563295661200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_185
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 201
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6079ac283d67c010800000000000000
+      internalID: 1209055113007165547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_186
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 201
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60062c45275aeaf90800000000000000
+      internalID: -6940428065264476154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_187
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 201
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e021f4334cfd8f0800000000000000
+      internalID: -513476107847987657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_188
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 201
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb851ffb28e8d0bf0800000000000000
+      internalID: -356472103275243330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_189
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 201
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de38a6157728d29c0800000000000000
+      internalID: -3950357849155402771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_190
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 201
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1335897db9750a0800000000000000
+      internalID: -6892869354391391839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_191
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 201
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e70edd0e337acc0800000000000000
+      internalID: -3699931527973405139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_192
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 201
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ca77b4d45f20a60800000000000000
+      internalID: 7638937630301203610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_193
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 201
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce5586a06c07e9be0800000000000000
+      internalID: -1468612432595757588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_194
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 201
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642500b5336891860800000000000000
+      internalID: 7501174209490473542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_195
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 169
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d15da19a783dcc0800000000000000
+      internalID: -3687454509516907228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_196
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 169
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e8cbd23734d03f0800000000000000
+      internalID: -933015385828192666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_197
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 169
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6918b9d329ccdb960800000000000000
+      internalID: 7619471073051640214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_198
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 169
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 363e6522101a1ea80800000000000000
+      internalID: -8439287200472439965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_199
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 169
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6d1f663365cc570800000000000000
+      internalID: 8488254176456988386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_200
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 169
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda9b604915a028d0800000000000000
+      internalID: -2873115034388817185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_201
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 169
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7952db0ff07ca1950800000000000000
+      internalID: 6420663090047427991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_202
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 169
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c2fe21be5a374f0800000000000000
+      internalID: -832139077079847813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_203
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 169
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e17baf8bda7e7f0800000000000000
+      internalID: -583306616729297358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_204
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 169
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ff7e3639c0c3c90800000000000000
+      internalID: -7188857078014279869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_205
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 169
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129fd5134b9c64900800000000000000
+      internalID: 668443370470635809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_206
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 169
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6048ecfb2b31edaa0800000000000000
+      internalID: -6134443983988947962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_207
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 169
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3546091fb9fba50800000000000000
+      internalID: 6539116645777167358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_208
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 169
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d5d287c28183630800000000000000
+      internalID: 3906899256017771908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_209
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 169
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f9503a10dee5da0800000000000000
+      internalID: -5954061066051412120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_210
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 169
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4a7539371468d10800000000000000
+      internalID: 2127459838628177136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_211
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 169
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e13333a150aae80800000000000000
+      internalID: -8166709364196696518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_212
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 169
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69be0b5d827eb6000800000000000000
+      internalID: 30371985077889942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_213
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 169
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1746802aaefef660800000000000000
+      internalID: 7421649242596722459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_214
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 169
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1af5788662030e0800000000000000
+      internalID: -2292289979941936710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_215
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 169
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e5287fcd78e4a4b0800000000000000
+      internalID: -5429959623652661789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_216
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 169
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6031f2a5df9aea0800000000000000
+      internalID: -5860874876267329843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_217
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 169
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8307343ae9aca47e0800000000000000
+      internalID: -1780387919978860488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_218
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 169
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2804d8d3d3b10a870800000000000000
+      internalID: 8691977230664679554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_219
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 137
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454e6e9dd77ec9370800000000000000
+      internalID: 8330787938441290836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_220
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 137
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b843eabc661aae0800000000000000
+      internalID: -1539836572596925652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_221
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 137
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7f0225fbdcac8e0800000000000000
+      internalID: -1672298090014378048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_222
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 137
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba1991ee0534b210800000000000000
+      internalID: 1347760526521342651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_223
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 137
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd565f3eea853020800000000000000
+      internalID: 2320913938848832990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_224
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 137
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f2f234eb3748a00800000000000000
+      internalID: 757857898313232219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_225
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 137
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc51c7275e798380800000000000000
+      internalID: -8968498270137393993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_226
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 137
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3398048353046f3c0800000000000000
+      internalID: -4326199794721584845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_227
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 137
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c323001ad770c070800000000000000
+      internalID: 8124625506231591877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_228
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 137
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562f87abf1032e350800000000000000
+      internalID: 6044446562715234917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_229
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 137
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c151a44b893cd3c0800000000000000
+      internalID: -4333525471122599481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_230
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 137
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a37f6c59c3e2d70800000000000000
+      internalID: 9020213717655566971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_231
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 137
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d229e1a6107ebd680800000000000000
+      internalID: -8729129459466202579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_232
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 137
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361bc1d8064dffd10800000000000000
+      internalID: 2161679857310544227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_233
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 137
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8fa571567ceb9160800000000000000
+      internalID: 7033475235986124687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_234
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 137
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4d4bf21eeca8c60800000000000000
+      internalID: 7821291169445631222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_235
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 137
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5633a4ce67b3706a0800000000000000
+      internalID: -6483147756620074139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_236
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 137
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16170135eb7586eb0800000000000000
+      internalID: -4726431333976346271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_237
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 137
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a78297366d74d30800000000000000
+      internalID: 4415733682382862871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_238
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 137
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13df45f78f9b9dfe0800000000000000
+      internalID: -1163694551759258319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_239
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 137
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32100052f3fedf920800000000000000
+      internalID: 3025837579145576739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_240
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 137
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6d2a4e38103af60800000000000000
+      internalID: 8044275025402058419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_241
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 137
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ccb19eaef998870800000000000000
+      internalID: 8685649187642788934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_242
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 137
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15408dcc8ba67bc0800000000000000
+      internalID: -3785649815526816482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_243
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 105
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127bfc964ef806e80800000000000000
+      internalID: -8187385911369025759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_244
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 105
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aaf157b489125d60800000000000000
+      internalID: 7877386756026399394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_245
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 105
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8879a0a64326340800000000000000
+      internalID: 4855500978307696838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_246
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 105
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa242b968fdd22460800000000000000
+      internalID: 7215573611995873962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_247
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 105
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2e5008e326d21d0800000000000000
+      internalID: -3373932525255269717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_248
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 105
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b115e31c95f1780800000000000000
+      internalID: -8710144467802186960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_249
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 105
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381df69d2f4e9c200800000000000000
+      internalID: 200943390075900291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_250
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 105
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b4e1cf308ad19210800000000000000
+      internalID: 1338090808666088629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_251
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 105
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b65752e4440634e0800000000000000
+      internalID: -2002408290417944904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_252
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 105
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c78b0d8b0eb1980800000000000000
+      internalID: -8567006781761881059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_253
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 105
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8466e740297a983e0800000000000000
+      internalID: -2050923909708093880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_254
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 105
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148657422e62c0dc0800000000000000
+      internalID: -3671516843497658303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_255
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 105
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f9239eb8143c1f0800000000000000
+      internalID: -1025904220941672670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_256
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 105
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2921c5909f6929d0800000000000000
+      internalID: -2798583026655614673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_257
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 105
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06af2475c3374260800000000000000
+      internalID: 7081685862214247951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_258
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 105
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de55799233b71190800000000000000
+      internalID: -7991721983841313071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_259
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 105
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90749b126c672bd40800000000000000
+      internalID: 5598667880116340489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_260
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 105
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea5528c97a4e4480800000000000000
+      internalID: -8913104725610243359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_261
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 105
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdcbc07e9ee6bff10800000000000000
+      internalID: 2304557585212947676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_262
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 105
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed1172b60cfd4460800000000000000
+      internalID: 7227710082693275105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_263
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 105
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3235676badb42e2f0800000000000000
+      internalID: -945109569058221277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_264
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 105
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 533ea39768cb8bd40800000000000000
+      internalID: 5600433422380753717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_265
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 105
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7777d87238aed3750800000000000000
+      internalID: 6286438503904278391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_266
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 105
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1776eb13e6a69d0800000000000000
+      internalID: -2780288660020956753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_267
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 73
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8078118904e21a510800000000000000
+      internalID: 1558577801010972424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_268
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 73
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a133577c48ddf20800000000000000
+      internalID: 3449058881835309580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_269
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 73
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7943a135d03ab9800800000000000000
+      internalID: 620268651317703831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_270
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 73
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd9ea19d884181720800000000000000
+      internalID: 2817024144910772701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_271
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 73
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29468f40148486960800000000000000
+      internalID: 7595400215653803154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_272
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 73
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189035f3099105570800000000000000
+      internalID: 8453284607902812545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_273
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 73
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a598a43803ecd7000800000000000000
+      internalID: 35411079845284186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_274
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 73
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be44c73a7c782ce0800000000000000
+      internalID: -1429756017326666062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_275
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 73
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e402adc03a09b4eb0800000000000000
+      internalID: -4734531553280253874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_276
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 73
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611dfe5bc775fbc90800000000000000
+      internalID: -7151901490101104362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_277
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 73
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128a46b99252b60c0800000000000000
+      internalID: -4581527335288395743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_278
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 73
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11e228c4113fa910800000000000000
+      internalID: 1850751937199399198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_279
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 73
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a6961a0526d8b8a0800000000000000
+      internalID: -6289041425051511133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_280
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 73
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e21f92c45a62e720800000000000000
+      internalID: 2873976424490799841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_281
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 73
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f19f2660a42ab1d0800000000000000
+      internalID: -3334312302786670088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_282
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 73
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490d50ca6486013c0800000000000000
+      internalID: -4390894983943171948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_283
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 73
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9d1f59b3b7d9bc0800000000000000
+      internalID: -3774725416817665610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_284
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 73
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c9f5b3c280465c0800000000000000
+      internalID: -4223241564498977704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_285
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 73
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4060bf50e2b78f3b0800000000000000
+      internalID: -5478493509097159164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_286
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 73
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4559d4cac2d5630800000000000000
+      internalID: 3917336369429828850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_287
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 73
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e366cb02020e170800000000000000
+      internalID: 8205593846040903195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_288
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 73
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6fabbeb7270f2630800000000000000
+      internalID: 3904347269238599531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_289
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 41
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5916bba5021a2ea60800000000000000
+      internalID: 7701895473090224533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_290
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 41
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05183086621b537f0800000000000000
+      internalID: -633405394063752880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_291
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 41
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be97bc398d85f1b0800000000000000
+      internalID: -5623432939133493575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_292
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 41
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5700b1e53bc30d7d0800000000000000
+      internalID: -2895747819323588491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_293
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 41
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741b5a5d7373e24e0800000000000000
+      internalID: -2004604071186157241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_294
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 41
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0a5a9d814969fc0800000000000000
+      internalID: -3488438026900234026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_295
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 41
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd3c63b5996c0390800000000000000
+      internalID: -7850783958732358199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_296
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 41
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d184f524cbf2060800000000000000
+      internalID: 6930965344798907805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_297
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 41
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d2d037ec29dd540800000000000000
+      internalID: 5034341373861244316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_298
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 41
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff8b449a72362010800000000000000
+      internalID: 1163673055777230832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_299
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 41
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2372810e74f0540800000000000000
+      internalID: 4976275141071155901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_300
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 41
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c24946cac3d8bf0800000000000000
+      internalID: -320533287353963456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_301
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 41
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c712d37d627b52a10800000000000000
+      internalID: 1884113396572168572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_302
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 41
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af5e696641bf52f40800000000000000
+      internalID: 5703240568173684218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_303
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 41
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6646d7d6f891b75b0800000000000000
+      internalID: -5369670026901232538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_304
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 41
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9beed9298bd2b60800000000000000
+      internalID: 7723031875864672699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_305
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 41
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3deb3918d2d4a5f40800000000000000
+      internalID: 5717967534743076563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_306
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 41
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4945dbc68a04df920800000000000000
+      internalID: 3025645616785872020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_307
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 41
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a521d4938e5f493c0800000000000000
+      internalID: -4353584562017856934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_308
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 41
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb369ac907593b30800000000000000
+      internalID: 4267537821475421120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_309
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 41
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a968e16bbb56f60800000000000000
+      internalID: 8027028301728356997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_310
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 41
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eab25b192cfbc750800000000000000
+      internalID: 6326427355054258921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_311
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d485e9bcdd05900800000000000000
+      internalID: 671280211082890561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_312
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 9
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3d0fc57f1ec6db0800000000000000
+      internalID: -4797211050523962426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_313
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 9
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb9b982a61b14da0800000000000000
+      internalID: -5962289362155889678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_314
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 9
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0617ca7353d6dfa0800000000000000
+      internalID: -5776197116560468468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_315
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 9
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4e0f70b1de16720800000000000000
+      internalID: 2837809940573250761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_316
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 9
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc9d4eaf24bebcd0800000000000000
+      internalID: -2540395022909596495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_317
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 9
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586dd6d69629371f0800000000000000
+      internalID: -1048333306742057339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_318
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 9
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30962d3f8111e8f0800000000000000
+      internalID: -513109575639592902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_319
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 9
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e246d06697d906b80800000000000000
+      internalID: -8403543759944588242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_320
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 9
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35fefc3b95ca340e0800000000000000
+      internalID: -2286794684505264301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_321
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 9
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65e0f063e7ac3cf0800000000000000
+      internalID: -271157282523257490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_322
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 9
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b3f2d9d8a571180800000000000000
+      internalID: -9144740954078495958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_323
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 9
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978d25549344896f0800000000000000
+      internalID: -677716731152377735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_324
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 9
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 948c76051e5e65b30800000000000000
+      internalID: 4275857652114245705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_325
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 9
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d8d747231e45010800000000000000
+      internalID: 1176813009469541682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_326
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 9
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6affe6ffb4b50b20800000000000000
+      internalID: 3100082655089130094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_327
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 9
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e181b2859e2096cf0800000000000000
+      internalID: -258672302367238114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_328
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 9
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eac5d9fd8b742520800000000000000
+      internalID: 2676399928277060321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_329
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 9
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d84aea18b364170800000000000000
+      internalID: 8162276802822442355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_330
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 9
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e379fa6c453d59760800000000000000
+      internalID: 7464104318500575038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_331
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 9
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1223fb522252bfa0800000000000000
+      internalID: -5786472263692639717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileToon1_332
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 9
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab372de175efdfd50800000000000000
+      internalID: 6772849064767812538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
