@@ -10,7 +10,7 @@ public class CharacterMovement : MonoBehaviour
 
     private float xAxisStep = 0.1f;
 
-    private float yAxisStep = 5f;
+    private float yAxisStep = 6.5f;
 
     private float movementSpeed = 0.5f;
 
@@ -71,7 +71,6 @@ public class CharacterMovement : MonoBehaviour
     {
         if (characterIsInAir == true)
         {
-            if(other.gameObject.tag == "Floor" || other.gameObject.tag == "PressurePlate" || other.gameObject.tag == "PressurePlate")
             characterIsInAir = false;
         }
     }

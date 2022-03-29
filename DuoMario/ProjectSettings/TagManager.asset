@@ -9,6 +9,7 @@ TagManager:
   - Character2
   - PressurePlate
   - FinishGate
+  - Obstacle
   layers:
   - Default
   - TransparentFX
