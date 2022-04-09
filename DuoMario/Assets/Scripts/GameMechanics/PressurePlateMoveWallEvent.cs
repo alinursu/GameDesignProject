@@ -10,7 +10,7 @@ public class PressurePlateMoveWallEvent : MonoBehaviour
     {
         var rigidBodyComponent = targetWall.GetComponent<Rigidbody2D>();
         
-        targetWall.transform.position += new Vector3(0, 1f, 0);
+        targetWall.transform.position += new Vector3(0, 1.5f, 0);
         
         rigidBodyComponent.constraints = RigidbodyConstraints2D.FreezePosition | RigidbodyConstraints2D.FreezeRotation;
     }
@@ -25,7 +25,7 @@ public class PressurePlateMoveWallEvent : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-		framesToWait = 0;
+		framesToWait = 10;
     }
 
     // Update is called once per frame
@@ -51,7 +51,7 @@ public class PressurePlateMoveWallEvent : MonoBehaviour
         moveWallDown();
 
 		if(framesToWait == 0){
-			framesToWait = 30;
+			framesToWait = 10;
 		}
     }
 }

@@ -8,30 +8,23 @@ public class CharacterMovement : MonoBehaviour
     private KeyCode MOVE_LEFT_KEY = KeyCode.A;
     private KeyCode MOVE_RIGHT_KEY = KeyCode.D;
 
-    private float xAxisStep = 0.1f;
+	public float speedX = 5f;
+	public float speedY = 8f;
 
-    private float yAxisStep = 6.5f;
-
-    private float movementSpeed = 0.5f;
+	private Vector2 speed;
 
     public GameObject character;
 
     private bool characterIsInAir = false;
 
-    private void MoveCharacterOnXAxis(float actualStep)
-    {
-        character.transform.position += new Vector3(actualStep * movementSpeed, 0, 0);
-    }
-    private void MoveCharacterOnYAxis(float actualStep)
-    {
-        GetComponent<Rigidbody2D>().AddForce(new Vector2(0, 
-            actualStep), ForceMode2D.Impulse);
-    }
+	private bool rotatedSprite = true;
     
     
     // Start is called before the first frame update
     void Start()
     {
+		speed = new Vector2(speedX, speedY);
+
         // TODO: This is for local co-op. Should be deleted when multiplayer is added.
         if (character.tag == "Character2")
         {
@@ -45,26 +38,32 @@ public class CharacterMovement : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetKey(MOVE_UP_KEY))
-        {
-            if (!characterIsInAir)
-            {
-                characterIsInAir = true;
-                MoveCharacterOnYAxis(yAxisStep); 
-            }
-        }
-        else if (Input.GetKey(MOVE_DOWN_KEY))
-        {
-            MoveCharacterOnYAxis(-yAxisStep);
-        }
-        else if (Input.GetKey(MOVE_LEFT_KEY))
-        {
-            MoveCharacterOnXAxis(-xAxisStep);
-        }
-        else if (Input.GetKey(MOVE_RIGHT_KEY))
-        {
-            MoveCharacterOnXAxis(xAxisStep);
-        }
+		if (Input.GetKey(MOVE_UP_KEY) || Input.GetKey(MOVE_DOWN_KEY) || Input.GetKey(MOVE_LEFT_KEY) || Input.GetKey(MOVE_RIGHT_KEY)) {
+			float inputX = Input.GetAxis("Horizontal");
+			if(character.tag == "Character2" && rotatedSprite) {
+				inputX *= -1;
+			}
+
+			float inputY = Input.GetAxis("Vertical");
+		
+			Vector3 movement = new Vector3(speed.x * inputX, speed.y * inputY, 0);
+			movement *= Time.deltaTime;
+
+			character.transform.Translate(movement);
+		}
+
+		// TODO: Should work for Character1 too when sprite is changed.
+		if (character.tag == "Character2") {
+			if (Input.GetKey(MOVE_LEFT_KEY)) {
+				rotatedSprite = true;
+				character.transform.rotation = new Quaternion(character.transform.rotation.x, -180, character.transform.rotation.z, character.transform.rotation.w);
+			}
+
+			if (Input.GetKey(MOVE_RIGHT_KEY)) {
+				rotatedSprite = false;
+				character.transform.rotation = new Quaternion(character.transform.rotation.x, 0, character.transform.rotation.z, character.transform.rotation.w);
+			}
+		}
     }
     
     void OnCollisionEnter2D(Collision2D other)
