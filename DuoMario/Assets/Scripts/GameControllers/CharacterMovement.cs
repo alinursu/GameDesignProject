@@ -18,6 +18,10 @@ public class CharacterMovement : MonoBehaviour
     private bool characterIsInAir = false;
 
 	private bool rotatedSprite = true;
+
+	private bool triggeredRunning = false;
+	private bool triggeredJumping = false;
+	private bool triggeredSliding = false;
     
     
     // Start is called before the first frame update
@@ -38,9 +42,53 @@ public class CharacterMovement : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-		if (Input.GetKey(MOVE_UP_KEY) || Input.GetKey(MOVE_DOWN_KEY) || Input.GetKey(MOVE_LEFT_KEY) || Input.GetKey(MOVE_RIGHT_KEY)) {
+		bool pressedUpKey = Input.GetKey(MOVE_UP_KEY);
+		bool pressedDownKey = Input.GetKey(MOVE_DOWN_KEY);
+		bool pressedLeftKey = Input.GetKey(MOVE_LEFT_KEY);
+		bool pressedRightKey = Input.GetKey(MOVE_RIGHT_KEY);
+
+		if (pressedUpKey || pressedDownKey || pressedLeftKey || pressedRightKey) {
+			var animator = character.GetComponent<Animator>();
+
+			if(pressedLeftKey || pressedRightKey) {
+				// Trigger running animation
+				if(!triggeredRunning) {
+					animator.SetTrigger("IsRunning");
+					animator.ResetTrigger("IsIdle");
+					animator.ResetTrigger("IsJumping");
+					animator.ResetTrigger("IsSliding");
+					triggeredRunning = true;
+					triggeredJumping = false;
+					triggeredSliding = false;
+				}
+			}
+			else if (pressedUpKey) {
+				// Trigger jumping animation
+				if(!triggeredJumping) {
+					animator.SetTrigger("IsJumping");
+					animator.ResetTrigger("IsRunning");
+					animator.ResetTrigger("IsIdle");
+					animator.ResetTrigger("IsSliding");
+					triggeredRunning = false;
+					triggeredJumping = true;
+					triggeredSliding = false;
+				}
+			}
+			else if (pressedDownKey) {
+				// Trigger sliding animation
+				if(!triggeredSliding) {
+					animator.SetTrigger("IsSliding");
+					animator.ResetTrigger("IsRunning");
+					animator.ResetTrigger("IsIdle");
+					animator.ResetTrigger("IsJumping");
+					triggeredSliding = true;
+					triggeredRunning = false;
+					triggeredJumping = false;
+				}
+			}
+
 			float inputX = Input.GetAxis("Horizontal");
-			if(character.tag == "Character2" && rotatedSprite) {
+			if(rotatedSprite) {
 				inputX *= -1;
 			}
 
@@ -51,18 +99,26 @@ public class CharacterMovement : MonoBehaviour
 
 			character.transform.Translate(movement);
 		}
+		else {
+			// Trigger idle animation
+			var animator = character.GetComponent<Animator>();
+			animator.SetTrigger("IsIdle");
+			animator.ResetTrigger("IsRunning");
+			animator.ResetTrigger("IsJumping");
+			animator.ResetTrigger("IsSliding");
+			triggeredRunning = false;
+			triggeredJumping = false;
+			triggeredSliding = false;
+		}
 
-		// TODO: Should work for Character1 too when sprite is changed.
-		if (character.tag == "Character2") {
-			if (Input.GetKey(MOVE_LEFT_KEY)) {
-				rotatedSprite = true;
-				character.transform.rotation = new Quaternion(character.transform.rotation.x, -180, character.transform.rotation.z, character.transform.rotation.w);
-			}
+		if (pressedLeftKey) {
+			rotatedSprite = true;
+			character.transform.rotation = new Quaternion(character.transform.rotation.x, -180, character.transform.rotation.z, character.transform.rotation.w);
+		}
 
-			if (Input.GetKey(MOVE_RIGHT_KEY)) {
-				rotatedSprite = false;
-				character.transform.rotation = new Quaternion(character.transform.rotation.x, 0, character.transform.rotation.z, character.transform.rotation.w);
-			}
+		if (pressedRightKey) {
+			rotatedSprite = false;
+			character.transform.rotation = new Quaternion(character.transform.rotation.x, 0, character.transform.rotation.z, character.transform.rotation.w);
 		}
     }
     
