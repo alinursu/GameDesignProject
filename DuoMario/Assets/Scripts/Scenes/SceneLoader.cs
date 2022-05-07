@@ -10,4 +10,9 @@ public class SceneLoader : MonoBehaviour
         Destroy (GameObject.Find ("Canvas"));
         SceneManager.LoadScene(sceneName);
     }
+    
+    public static void StaticChangeScene(string sceneName)
+    {   
+        SceneManager.LoadScene(sceneName);
+    }
 }
