@@ -37,6 +37,7 @@ public class CharacterMovement : MonoBehaviour
             MOVE_LEFT_KEY = KeyCode.LeftArrow;
             MOVE_RIGHT_KEY = KeyCode.RightArrow;
         }
+
     }
 
     // Update is called once per frame
