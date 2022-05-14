@@ -28651,7 +28651,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   finalPositionXOffset: 5
-  speed: 0.05
+  speed: 0.02
 --- !u!61 &1685084103
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -56807,7 +56807,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   finalPositionXOffset: 5
-  speed: 0.05
+  speed: 0.02
 --- !u!61 &1917994673
 BoxCollider2D:
   m_ObjectHideFlags: 0

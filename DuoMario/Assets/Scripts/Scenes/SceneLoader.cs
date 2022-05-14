@@ -15,4 +15,33 @@ public class SceneLoader : MonoBehaviour
     {   
         SceneManager.LoadScene(sceneName);
     }
+    
+    public void ChangeSceneOnLose()
+    {
+        Debug.Log("Actual level is: " + LevelPersistentData.getActualLevel());
+        Destroy (GameObject.Find ("Canvas"));
+        SceneManager.LoadScene(LevelPersistentData.getActualLevel());
+    }
+
+    public static void StaticChangeSceneOnLose()
+    {
+        Debug.Log("Actual level is: " + LevelPersistentData.getActualLevel());
+        SceneManager.LoadScene(LevelPersistentData.getActualLevel());
+    }
+    
+    public void ChangeSceneOnWin()
+    {
+        LevelPersistentData.goToNextLevel();
+        Debug.Log("Next level is: " + LevelPersistentData.getActualLevel());
+        
+        Destroy (GameObject.Find ("Canvas"));
+        SceneManager.LoadScene(LevelPersistentData.getActualLevel());
+    }
+    
+    public static void StaticChangeSceneOnWin()
+    {
+        LevelPersistentData.goToNextLevel();
+        Debug.Log("Next level is: " + LevelPersistentData.getActualLevel());
+        SceneManager.LoadScene(LevelPersistentData.getActualLevel());
+    }
 }
